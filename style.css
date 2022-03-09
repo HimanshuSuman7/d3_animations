@@ -1,0 +1,10 @@
+body {
+  margin: auto;
+  padding: 5%;
+  background-color: azure;
+  max-width: max-content;
+}
+
+svg {
+  border: black 2px solid;
+}
